@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_items">
+        <item>Search</item>
+        <item>Friends</item>
+        <item>Active Bets</item>
+        <item>Winners</item>
+        <item>Losers</item>
+        <item>Ties</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IBetcha</string>
+    <string name="i_betcha">IBetcha my</string>
+    <string name="credits">$1.00</string>
+    <string name="to_your">to your</string>
+    <string name="that">that</string>
+    <string name="with_judge">with Judge</string>
+    <string name="search_hint">Search by username, email</string>
+
+
+</resources>

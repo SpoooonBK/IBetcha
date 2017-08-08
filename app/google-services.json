@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874965482868",
+    "firebase_url": "https://ibetcha-49ce4.firebaseio.com",
+    "project_id": "ibetcha-49ce4",
+    "storage_bucket": "ibetcha-49ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874965482868:android:d9eca578efb739ad",
+        "android_client_info": {
+          "package_name": "net.estebanrodriguez.apps.ibetcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874965482868-onjc2avdq98js9e2tlf1rrjmm1tjksci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.estebanrodriguez.apps.ibetcha",
+            "certificate_hash": "04729bd26a924eb4bfd4f890c8b705cd443b6506"
+          }
+        },
+        {
+          "client_id": "874965482868-rpupl72oihlhreut6bi9kaan4ju38i93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0z5exUoJtbBNTz12itwVKAn6a5MHoX1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874965482868-rpupl72oihlhreut6bi9kaan4ju38i93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
